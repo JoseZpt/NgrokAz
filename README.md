@@ -2,7 +2,7 @@
 ![NgrokAz](https://www.jasoft.org/Blog/image.axd?picture=/2018/ngrok/ngrok.png) 
 <a href="https://github.com/Anonymous-Zpt"><img title="Author" src="https://img.shields.io/badge/Author-Anonymous%20Zpt-svg?style=for-the-badge&logo=github"></a>
 <div align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.2-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/NgrokAz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Anonymous-Zpt/NgrokAz?color=red&style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/NgrokAz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Anonymous-Zpt/NgrokAz?color=red&style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/NgrokAz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anonymous-Zpt/NgrokAz?label=Watchers&color=blue&style=flat-square"></a>
