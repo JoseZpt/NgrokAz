@@ -23,7 +23,7 @@ Ngrok es una herramienta que permite acceder nuestro servidor local a cualquier
 * ` bash NgrokAz `
 
 > Nota:
-Si no tienen Authtoken solo se preciona Entet
+Si no tienen Authtoken solo presionan Enter
 
 # Uso
 * `ngrok http 8080`
